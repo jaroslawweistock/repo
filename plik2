@@ -4,4 +4,8 @@ j
 sru
 zmiany
 znowu trzeba zrobić jakieś zmiany
-zmiany z gałęzi master 
+<<<<<<< HEAD
+zmiany z master 
+=======
+dhfbfgdkzh 
+>>>>>>> tutaj powinien być konflikt
